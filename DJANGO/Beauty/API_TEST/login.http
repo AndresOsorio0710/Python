@@ -1,0 +1,26 @@
+### POST
+POST http://localhost:8000/api/1.0/login/
+Content-Type: application/json
+
+{
+  "username": "admin",
+  "password":  "1234"
+}
+
+### POST
+POST http://localhost:8000/api/1.0/login/
+Content-Type: application/json
+
+{
+  "username": "andres",
+  "password":  "190308022014aj"
+}
+
+### POST
+POST http://localhost:8000/api/1.0/login/
+Content-Type: application/json
+
+{
+  "username": "prueba7@gmail.com",
+  "password":  "Bt-1234567"
+}

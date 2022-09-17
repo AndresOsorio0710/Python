@@ -1,0 +1,7 @@
+### GET
+GET http://localhost:8000/api/1.0/persona/
+Authorization: Token 569f2c653424f617989afadf5987e178df4898d3
+
+### GET
+GET http://localhost:8000/api/1.0/persona/
+Authorization: Token 0fa87e94cf57beb3e65406d2d51a617697445853

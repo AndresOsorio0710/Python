@@ -1,0 +1,3 @@
+### GET
+GET http://localhost:8000/api/1.0/user/6/
+Authorization: Token 6fe999efc2e3c20921978a787a8997314af5efe2

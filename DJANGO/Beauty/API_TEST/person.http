@@ -1,0 +1,18 @@
+### GET
+GET http://localhost:8000/api/1.0/person/
+Authorization: Token 88a717b7730038198d0905de74672767c7ca30ab
+
+### POST
+POST  http://localhost:8000/api/1.0/person/
+Content-Type: application/json
+Authorization: Token 2f587804be33cbdcca2516b42e113805ff5df7e4
+
+{
+  "first_name":"prueba7",
+  "last_name":"prueba7",
+  "email":"prueba7@gmail.com",
+  "phone_number": "1234567",
+  "gender": "OTHER",
+  "date_of_birth": "2000-01-01",
+  "is_user": true
+}

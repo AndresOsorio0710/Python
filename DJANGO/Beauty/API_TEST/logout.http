@@ -1,0 +1,3 @@
+### GET
+DELETE http://localhost:8000/api/1.0/logout/f53cc155fcaba43d24301ba95a491d932e4fdd61/	
+Authorization: Token f53cc155fcaba43d24301ba95a491d932e4fdd61
